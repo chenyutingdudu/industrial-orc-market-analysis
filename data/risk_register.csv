@@ -1,9 +1,0 @@
-id,category,description,likelihood,impact_score,mitigation
-R1,Technical,ORC evaporator fouling / low source temperature,Medium,0.35,HX cleaning SOP; Cu-foam compact HX (Paper 1)
-R2,Technical,Working-fluid regulatory phase-out,Low,0.2,Low-GWP fluid selection per Paper 2 R600a benchmark
-R3,Financial,Electricity price volatility,High,0.45,PPA hedge; sensitivity in Section 5
-R4,Financial,CAPEX overrun >15%,Medium,0.4,EPC wrap; modular ORC skid
-R5,Regulatory,Carbon pricing / ETS expansion,Medium,0.25,Include carbon benefit in CBA
-R6,Market,Competing WHP (steam cycle) for >400C sources,Low,0.15,Target <150C per Paper 2 envelope
-R7,Operational,Insufficient annual operating hours,High,0.5,Process integration audit before FID
-R8,Operational,Grid interconnection delay,Medium,0.3,Early utility engagement
