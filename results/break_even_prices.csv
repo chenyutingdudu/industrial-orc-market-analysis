@@ -1,4 +1,0 @@
-case_id,industry,baseline_electricity_price_eur_kwh,break_even_electricity_price_eur_kwh,baseline_npv_eur
-C1_industrial_kiln_belgium,industrial_kiln,0.1,0.08253778152670144,420377.3068109434
-C2_cement_greece_typical_plant,cement,0.1,0.04404886348080603,21551065.227058478
-C3_steel_eaf_germany,steel_EAF,0.1,0.06776748227816312,5379924.195716299
