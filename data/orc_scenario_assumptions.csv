@@ -1,0 +1,4 @@
+Scenario,Electricity_Price_USD_per_kWh,Operating_Hours,Initial_Investment_USD,OM_Rate
+Conservative,0.11,6000,690000,0.04
+Base,0.15,8000,600000,0.03
+Optimistic,0.19,8500,540000,0.025

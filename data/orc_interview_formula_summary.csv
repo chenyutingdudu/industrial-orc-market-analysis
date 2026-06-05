@@ -1,0 +1,8 @@
+Metric,Formula,Base_case_value
+Annual generation,Installed capacity × Operating hours,"1,600,000 kWh"
+Annual revenue,Annual generation × Electricity price,"$240,000"
+Annual O&M cost,Initial investment × O&M rate,"$18,000"
+Annual net cash flow,Annual revenue − Annual O&M cost,"$222,000"
+NPV,Discount future cash flows and subtract initial investment,"$1,579,629"
+ROI,Total profit ÷ Initial investment × 100%,640.0%
+Payback period,Initial investment ÷ Annual net cash flow,2.7 years
