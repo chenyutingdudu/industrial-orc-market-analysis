@@ -1,6 +1,3 @@
-# ORC Investment Analysis - Interview Package
-
-This package is based on the ORC investment analysis paper. It is designed for a PhD interview explanation, not for detailed thermodynamic engineering design.
 
 ## What this package contains
 
@@ -36,7 +33,7 @@ cd src
 python orc_investment_analysis.py
 ```
 
-## Interview explanation
+
 
 The project converts a technical ORC waste heat recovery idea into a financial decision model.  
 The key logic is:
